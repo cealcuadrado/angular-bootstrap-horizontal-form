@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+div[class*='col'], div[class^='col'], .col-form-label {
+  border: 1px dotted black;
+}
